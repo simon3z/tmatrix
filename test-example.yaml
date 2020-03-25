@@ -1,0 +1,13 @@
+---
+- Name: Permutation Components 1
+  Items:
+  - Name: Components-1 Factor-1
+    Score: 50
+  - Name: Components-1 Factor-2
+    Score: 100
+- Name:  Permutation Components 2
+  Items:
+    - Name: Components-2 Factor-1
+      Score: 100
+    - Name: Components-2 Factor-2
+      Score: 50
